@@ -70,6 +70,9 @@ You can even change the stack from Angular to React+Express or React+Spring as f
 ```site:icims.com/jobs "Fullstack" "React" "Java"```
 
 
+```site:icims.com/jobs "React" "Java"```
+
+
 ```site:jobs.jobvite.com "Frontend" "React" "Node"```
 
 
