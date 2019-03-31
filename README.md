@@ -61,6 +61,21 @@ Let's say you are a full-stack developer with Angular on frontend and Django on 
 
 ```site:myworkdayjobs.com/en-US "Fullstack" "Angular" "Django"```
 
+You can even change the stack from Angular to React+Express or React+Spring as following
+
+
+```site:boards.greenhouse.io "Fullstack" "React" "Express"```
+
+
+```site:icims.com/jobs "Fullstack" "React" "Java"```
+
+
+```site:jobs.jobvite.com "Frontend" "React" "Node"```
+
+
+```site:myworkdayjobs.com/en-US "Fullstack" "Angular" "React"```
+
+
 
 And if you are a DevOps guy, you can go for following links:
 
