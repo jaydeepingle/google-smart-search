@@ -46,6 +46,40 @@ The above are those job boards from where I received the calls in most of the ca
 In the above link, I am looking for jobs from SF location which needs Spring and Java technologies.
 
 
+#### Search using skills
+Let's say you are a full-stack developer with Angular on frontend and Django on backend. You can use following search strings for searching
+
+
+```site:boards.greenhouse.io "Fullstack" "Angular" "Django"```
+
+
+```site:icims.com/jobs "Fullstack" "Angular" "Django"```
+
+
+```jobs.jobvite.com "Fullstack" "Angular" "Django"```
+
+
+```site:myworkdayjobs.com/en-US "Fullstack" "Angular" "Django"```
+
+
+And if you are a DevOps guy, you can go for following links:
+
+```site:boards.greenhouse.io "Docker" "AWS" "Jenkins"```
+
+
+```site:icims.com/jobs "Docker" "AWS" "Jenkins"```
+
+
+```jobs.jobvite.com "DevOps Engineer"```
+
+
+```site:myworkdayjobs.com/en-US "Docker" "AWS" "Jenkins"```
+
+
+I am not sure, how many results you are going to get in the Google Search but definitely it would give you some so that you won't feel like **where to apply?**
+
+
+
 #### Search for University Recruiters of the specific companies on LinkedIn
 LinkedIn limits the Advanced Search for normal users but in case you want to look for the recruiters at specific company you can just use the following link, which would show up the results in the google search
 
