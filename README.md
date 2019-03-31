@@ -56,7 +56,7 @@ Let's say you are a full-stack developer with Angular on frontend and Django on 
 ```site:icims.com/jobs "Fullstack" "Angular" "Django"```
 
 
-```jobs.jobvite.com "Fullstack" "Angular" "Django"```
+```site:jobs.jobvite.com "Fullstack" "Angular" "Django"```
 
 
 ```site:myworkdayjobs.com/en-US "Fullstack" "Angular" "Django"```
@@ -70,7 +70,7 @@ And if you are a DevOps guy, you can go for following links:
 ```site:icims.com/jobs "Docker" "AWS" "Jenkins"```
 
 
-```jobs.jobvite.com "DevOps Engineer"```
+```site:jobs.jobvite.com "DevOps Engineer"```
 
 
 ```site:myworkdayjobs.com/en-US "Docker" "AWS" "Jenkins"```
